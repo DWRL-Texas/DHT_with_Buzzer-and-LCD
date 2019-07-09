@@ -1,4 +1,4 @@
-# DHT with LCD
+# Temperature and Humidity Sensor with LCD
 This tutorial explains how to set up a DHT11 temperature and humidity sensor and an LCD display that displays those values.
 
 ## Parts:
