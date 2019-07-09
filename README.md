@@ -18,5 +18,5 @@ This tutorial explains how to set up a DHT11 temperature and humidity sensor and
 - Open the **DHT_with_LCD_bb.pdf** and follow the visual pinout instructions to create your circuit
 
 ## IDE Code
-- Double click the **DHT_with_LCD.ino** file to open the Arduino IDE. Upload the code to your Arduino and, VOILA! You should begin to see temp and humidity readout on the LCD.
+- Double click the **DHT_with_LCD.ino** file to open the Arduino IDE. Upload the code to your Arduino and, VOILA! You should begin to see a temperature and humidity readout on your LCD.
 
